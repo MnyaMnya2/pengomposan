@@ -340,7 +340,7 @@ footer #imgi{
     height: 7vmin;
     padding-top: 2vmin;
     float: right;
-    margin-right: 2vw;
+    margin-right: vw;
 }
 
 @media only screen and (max-width: 768px){
